@@ -1,2 +1,2 @@
 # Ebay_OpenAI_API
-This project integrates the eBay API to retrieve top-viewed technology products, storing the data in a DataFrame, and leverages the OpenAI API for sophisticated price comparison analysis. API Practice
+This project focuses on practicing API integrations by retrieving top-viewed products from different technology categories using the eBay API. The data is stored in a DataFrame, and the OpenAI API is then used to compare and analyze average prices across these products. The project highlights the process of fetching, storing, and analyzing data from multiple APIs.
